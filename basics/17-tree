@@ -1,1 +1,2 @@
 #!/bin/bash
+mkir -p welcome/to/school
