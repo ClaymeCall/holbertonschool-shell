@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --sort=time | head -11 | tail -10
+find ./ -type f -printf "%f\n" | head -10
